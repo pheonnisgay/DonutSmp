@@ -24,6 +24,8 @@ how to use:
   on windows just open start.bat
   
   on linux type in the terminal node index.js
+  
+  also works for Windows
 
 Auto Key:
 
