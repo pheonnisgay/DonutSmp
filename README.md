@@ -1,5 +1,5 @@
 # DonutSmp
-Bots for DonutSMP.net
+Bots for DonutSMP.net(requieres nodejs and python3)
 
 Shard bot:
 
